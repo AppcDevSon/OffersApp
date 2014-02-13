@@ -1,0 +1,1 @@
+module.exports = [{"isId":true,"priority":100000.0025,"key":"offersTab","style":{icon:"/images/home.png",backgroundColor:"#E5E4E2",title:"Offers",}}];

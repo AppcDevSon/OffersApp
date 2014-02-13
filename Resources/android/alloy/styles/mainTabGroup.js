@@ -1,0 +1,1 @@
+module.exports = [{"isClass":true,"priority":10000.0016,"key":"tabG","style":{barColor:"#E5E4E2",}}];

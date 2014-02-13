@@ -1,0 +1,1 @@
+module.exports = [{"isId":true,"priority":100000.0002,"key":"bookmarks","style":{icon:"/images/bookM.png",backgroundColor:"#E5E4E2",title:"Bookmarks",}}];
